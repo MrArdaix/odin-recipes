@@ -1,6 +1,17 @@
 body{
     background-color: antiquewhite;
 }
+
 h1{
     font-family: sans-serif;
+}
+
+#fourRecipes{
+    background-color: azure;
+    width:20%;
+}
+
+#lasagnaPage,#tacoPage,#enchiladasPage,#pancakesPage{
+    margin: 10px;
+    padding: 3px;
 }

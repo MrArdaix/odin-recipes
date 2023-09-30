@@ -18,3 +18,9 @@ h1{
     margin: 10px;
     padding: 3px;
 }
+
+#ingredients{
+    border-style:solid;
+    border-top: 3px;
+    border-color:red;
+}

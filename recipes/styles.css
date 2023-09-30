@@ -3,12 +3,15 @@ body{
 }
 
 h1{
-    font-family: sans-serif;
+    font-family:sans-serif, Haettenschweiler, 'Arial Narrow Bold';
+    margin-left: 10px;
 }
 
 #fourRecipes{
     background-color: azure;
     width:20%;
+    border-style:solid;
+    border-color:red;
 }
 
 #lasagnaPage,#tacoPage,#enchiladasPage,#pancakesPage{

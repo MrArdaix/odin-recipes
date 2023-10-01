@@ -26,3 +26,8 @@ h1{
     margin: 10px;
     padding: 10px;
 }
+
+.tacoPic,.enchiladaPic,.pancakePic,.lasagnaPic{
+    height:auto;
+    width:500px;
+}

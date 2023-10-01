@@ -30,5 +30,5 @@ h1{
 .tacoPic,.enchiladaPic,.pancakePic,.lasagnaPic{
     height:auto;
     width:500px;
-    align-content: center;
+    text-align:center;
 }

@@ -5,6 +5,7 @@ body{
 h1{
     font-family:sans-serif, Haettenschweiler, 'Arial Narrow Bold';
     margin-left: 10px;
+    margin-left: 40%;
 }
 
 #fourRecipes{
@@ -12,12 +13,33 @@ h1{
     width:20%;
     border-style:solid;
     border-color:red;
+    margin-left: 40%;
 }
 
-#lasagnaPage:hover,#tacoPage:hover,#enchiladasPage:hover,#pancakesPage:hover{
+#lasagnaPage,#tacoPage,#enchiladasPage,#pancakesPage{
     margin: 10px;
     padding: 3px;
     
+}
+
+#lasagnaPage:hover{
+    margin:2px;
+    background-color: yellow;
+}
+
+#tacoPage:hover{
+    margin:2px;
+    background-color: yellow;
+}
+
+#enchiladasPage:hover{
+    margin:2px;
+    background-color: yellow;
+}
+
+#pancakesPage:hover{
+    margin:2px;
+    background-color: yellow;
 }
 
 #ingredientsBox{

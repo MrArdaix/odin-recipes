@@ -14,9 +14,10 @@ h1{
     border-color:red;
 }
 
-#lasagnaPage,#tacoPage,#enchiladasPage,#pancakesPage{
+#lasagnaPage:hover,#tacoPage:hover,#enchiladasPage:hover,#pancakesPage:hover{
     margin: 10px;
     padding: 3px;
+    
 }
 
 #ingredientsBox{
